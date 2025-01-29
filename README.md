@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi!+I'm+Mary+Pauline+D.+Calungsod;2nd+Year+Student;Technological+University+of+the+Philippines+-+Taguig+Campus" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi!+I'm+Mary+Pauline+D.+Calungsod;2nd+Year+Student" alt="Typing SVG">
   </a>
 </p>
 
